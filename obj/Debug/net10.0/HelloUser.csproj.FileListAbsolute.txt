@@ -1,0 +1,14 @@
+C:\Progect\HelloUser\bin\Debug\net10.0\HelloUser.exe
+C:\Progect\HelloUser\bin\Debug\net10.0\HelloUser.deps.json
+C:\Progect\HelloUser\bin\Debug\net10.0\HelloUser.runtimeconfig.json
+C:\Progect\HelloUser\bin\Debug\net10.0\HelloUser.dll
+C:\Progect\HelloUser\bin\Debug\net10.0\HelloUser.pdb
+C:\Progect\HelloUser\obj\Debug\net10.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progect\HelloUser\obj\Debug\net10.0\HelloUser.AssemblyInfoInputs.cache
+C:\Progect\HelloUser\obj\Debug\net10.0\HelloUser.AssemblyInfo.cs
+C:\Progect\HelloUser\obj\Debug\net10.0\HelloUser.csproj.CoreCompileInputs.cache
+C:\Progect\HelloUser\obj\Debug\net10.0\HelloUser.dll
+C:\Progect\HelloUser\obj\Debug\net10.0\refint\HelloUser.dll
+C:\Progect\HelloUser\obj\Debug\net10.0\HelloUser.pdb
+C:\Progect\HelloUser\obj\Debug\net10.0\HelloUser.genruntimeconfig.cache
+C:\Progect\HelloUser\obj\Debug\net10.0\ref\HelloUser.dll
